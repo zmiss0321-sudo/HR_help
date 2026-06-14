@@ -1,0 +1,212 @@
+[2m10:53:14[22m [31m[1m[vite][22m[39m [31mInternal server error: [postcss] D:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/index.css:44:3: The `hover:bg-brand-hover` class does not exist. If `hover:bg-brand-hover` is a custom class, make sure it is defined within a `@layer` directive.[39m
+  Plugin: [35mvite:css[39m
+  File: [36mD:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/index.css[39m:44:2
+[33m  42 |  
+  43 |  .btn-primary {
+  44 |    @apply inline-flex items-center justify-center gap-2 rounded-xl bg-brand-600 px-4 py-2.5 text-sm font-semibold text-white shadow-soft transition hover:bg-brand-hover;
+     |    ^
+  45 |  }
+  46 |  [39m
+      at Input.error (D:\HuaweiMoveData\Users\周蜜诗\OneDrive\桌面\HR\node_modules\postcss\lib\input.js:135:16)
+      at AtRule.error (D:\HuaweiMoveData\Users\周蜜诗\OneDrive\桌面\HR\node_modules\postcss\lib\node.js:146:32)
+      at processApply (D:\HuaweiMoveData\Users\周蜜诗\OneDrive\桌面\HR\node_modules\tailwindcss\lib\lib\expandApplyAtRules.js:380:29)
+      at D:\HuaweiMoveData\Users\周蜜诗\OneDrive\桌面\HR\node_modules\tailwindcss\lib\lib\expandApplyAtRules.js:551:9
+      at D:\HuaweiMoveData\Users\周蜜诗\OneDrive\桌面\HR\node_modules\tailwindcss\lib\processTailwindFeatures.js:55:50
+      at async plugins (D:\HuaweiMoveData\Users\周蜜诗\OneDrive\桌面\HR\node_modules\tailwindcss\lib\plugin.js:38:17)
+      at async LazyResult.runAsync (D:\HuaweiMoveData\Users\周蜜诗\OneDrive\桌面\HR\node_modules\postcss\lib\lazy-result.js:293:11)
+      at async runPostCSS (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:43983:21)
+      at async compilePostCSS (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:43953:18)
+      at async compileCSS (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:43808:27)
+      at async TransformPluginContext.handler (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:43124:11)
+      at async EnvironmentPluginContainer.transform (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:42453:18)
+      at async loadAndTransform (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:35845:27)
+[2m10:53:14[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: [postcss] D:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/index.css:44:3: The `hover:bg-brand-hover` class does not exist. If `hover:bg-brand-hover` is a custom class, make sure it is defined within a `@layer` directive.
+  Plugin: [35mvite:css[39m
+  File: [36mD:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/index.css[39m:44:2
+[33m  42 |  
+  43 |  .btn-primary {
+  44 |    @apply inline-flex items-center justify-center gap-2 rounded-xl bg-brand-600 px-4 py-2.5 text-sm font-semibold text-white shadow-soft transition hover:bg-brand-hover;
+     |    ^
+  45 |  }
+  46 |  [39m
+[2m10:55:32[22m [31m[1m[vite][22m[39m [31mInternal server error: [postcss] D:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/index.css:44:3: The `hover:bg-brand-hover` class does not exist. If `hover:bg-brand-hover` is a custom class, make sure it is defined within a `@layer` directive.[39m
+  Plugin: [35mvite:css[39m
+  File: [36mD:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/index.css[39m:44:2
+[33m  42 |  
+  43 |  .btn-primary {
+  44 |    @apply inline-flex items-center justify-center gap-2 rounded-xl bg-brand-600 px-4 py-2.5 text-sm font-semibold text-white shadow-soft transition hover:bg-brand-hover;
+     |    ^
+  45 |  }
+  46 |  [39m
+      at Input.error (D:\HuaweiMoveData\Users\周蜜诗\OneDrive\桌面\HR\node_modules\postcss\lib\input.js:135:16)
+      at AtRule.error (D:\HuaweiMoveData\Users\周蜜诗\OneDrive\桌面\HR\node_modules\postcss\lib\node.js:146:32)
+      at processApply (D:\HuaweiMoveData\Users\周蜜诗\OneDrive\桌面\HR\node_modules\tailwindcss\lib\lib\expandApplyAtRules.js:380:29)
+      at D:\HuaweiMoveData\Users\周蜜诗\OneDrive\桌面\HR\node_modules\tailwindcss\lib\lib\expandApplyAtRules.js:551:9
+      at D:\HuaweiMoveData\Users\周蜜诗\OneDrive\桌面\HR\node_modules\tailwindcss\lib\processTailwindFeatures.js:55:50
+      at async plugins (D:\HuaweiMoveData\Users\周蜜诗\OneDrive\桌面\HR\node_modules\tailwindcss\lib\plugin.js:38:17)
+      at async LazyResult.runAsync (D:\HuaweiMoveData\Users\周蜜诗\OneDrive\桌面\HR\node_modules\postcss\lib\lazy-result.js:293:11)
+      at async runPostCSS (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:43983:21)
+      at async compilePostCSS (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:43953:18)
+      at async compileCSS (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:43808:27)
+      at async TransformPluginContext.handler (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:43124:11)
+      at async EnvironmentPluginContainer.transform (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:42453:18)
+      at async loadAndTransform (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:35845:27)
+      at async viteTransformMiddleware (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:37369:24)
+[2m11:20:57[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to load url /src/utils/storage.ts (resolved id: D:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/utils/storage.ts) in D:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/index.css. Does the file exist?
+[2m11:20:57[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to load url /src/utils/storage.ts (resolved id: D:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/utils/storage.ts) in D:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/index.css. Does the file exist?
+[2m11:20:57[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to load url /src/utils/storage.ts (resolved id: D:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/utils/storage.ts) in D:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/index.css. Does the file exist?
+[2m12:35:18[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to load url /src/data/seed.ts (resolved id: D:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/data/seed.ts) in D:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/index.css. Does the file exist?
+[2m12:35:18[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to load url /src/data/seed.ts (resolved id: D:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/data/seed.ts) in D:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/index.css. Does the file exist?
+[2m12:35:19[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to load url /src/utils/storage.ts (resolved id: D:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/utils/storage.ts) in D:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/App.tsx. Does the file exist?
+[2m12:35:19[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to load url /src/utils/storage.ts (resolved id: D:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/utils/storage.ts) in D:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/App.tsx. Does the file exist?
+[2m12:35:19[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to load url /src/utils/storage.ts (resolved id: D:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/utils/storage.ts) in D:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/App.tsx. Does the file exist?
+[2m12:36:08[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "./pages/HrWorkspace" from "src/App.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mD:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/App.tsx[39m:5:28
+[33m  20 |  import { seedData } from "./data/seed";
+  21 |  import { HomePage } from "./pages/HomePage";
+  22 |  import { HrWorkspace } from "./pages/HrWorkspace";
+     |                               ^
+  23 |  import { InternWorkspace } from "./pages/InternWorkspace";
+  24 |  import { MentorWorkspace } from "./pages/MentorWorkspace";[39m
+      at TransformPluginContext._formatLog (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:42658:41)
+      at TransformPluginContext.error (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:42655:16)
+      at normalizeUrl (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:40634:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:40753:37
+      at async Promise.all (index 7)
+      at async TransformPluginContext.transform (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:40680:7)
+      at async EnvironmentPluginContainer.transform (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:42453:18)
+      at async loadAndTransform (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:35845:27)
+      at async viteTransformMiddleware (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:37369:24)
+[2m12:36:08[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "./pages/HrWorkspace" from "src/App.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mD:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/App.tsx[39m:5:28
+[33m  20 |  import { seedData } from "./data/seed";
+  21 |  import { HomePage } from "./pages/HomePage";
+  22 |  import { HrWorkspace } from "./pages/HrWorkspace";
+     |                               ^
+  23 |  import { InternWorkspace } from "./pages/InternWorkspace";
+  24 |  import { MentorWorkspace } from "./pages/MentorWorkspace";[39m
+      at TransformPluginContext._formatLog (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:42658:41)
+      at TransformPluginContext.error (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:42655:16)
+      at normalizeUrl (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:40634:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:40753:37
+      at async Promise.all (index 7)
+      at async TransformPluginContext.transform (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:40680:7)
+      at async EnvironmentPluginContainer.transform (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:42453:18)
+      at async loadAndTransform (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:35845:27)
+      at async viteTransformMiddleware (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:37369:24)
+[2m12:36:09[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to resolve import "./pages/HrWorkspace" from "src/App.tsx". Does the file exist?
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mD:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/App.tsx[39m:5:28
+[33m  20 |  import { seedData } from "./data/seed";
+  21 |  import { HomePage } from "./pages/HomePage";
+  22 |  import { HrWorkspace } from "./pages/HrWorkspace";
+     |                               ^
+  23 |  import { InternWorkspace } from "./pages/InternWorkspace";
+  24 |  import { MentorWorkspace } from "./pages/MentorWorkspace";[39m
+[2m12:36:09[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "./pages/HrWorkspace" from "src/App.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mD:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/App.tsx[39m:5:28
+[33m  20 |  import { seedData } from "./data/seed";
+  21 |  import { HomePage } from "./pages/HomePage";
+  22 |  import { HrWorkspace } from "./pages/HrWorkspace";
+     |                               ^
+  23 |  import { InternWorkspace } from "./pages/InternWorkspace";
+  24 |  import { MentorWorkspace } from "./pages/MentorWorkspace";[39m
+      at TransformPluginContext._formatLog (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:42658:41)
+      at TransformPluginContext.error (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:42655:16)
+      at normalizeUrl (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:40634:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:40753:37
+      at async Promise.all (index 7)
+      at async TransformPluginContext.transform (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:40680:7)
+      at async EnvironmentPluginContainer.transform (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:42453:18)
+      at async loadAndTransform (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:35845:27)
+      at async viteTransformMiddleware (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:37369:24)
+[2m12:36:09[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to resolve import "./pages/HrWorkspace" from "src/App.tsx". Does the file exist?
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mD:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/App.tsx[39m:5:28
+[33m  20 |  import { seedData } from "./data/seed";
+  21 |  import { HomePage } from "./pages/HomePage";
+  22 |  import { HrWorkspace } from "./pages/HrWorkspace";
+     |                               ^
+  23 |  import { InternWorkspace } from "./pages/InternWorkspace";
+  24 |  import { MentorWorkspace } from "./pages/MentorWorkspace";[39m
+[2m12:36:09[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "./pages/HrWorkspace" from "src/App.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mD:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/App.tsx[39m:5:28
+[33m  20 |  import { seedData } from "./data/seed";
+  21 |  import { HomePage } from "./pages/HomePage";
+  22 |  import { HrWorkspace } from "./pages/HrWorkspace";
+     |                               ^
+  23 |  import { InternWorkspace } from "./pages/InternWorkspace";
+  24 |  import { MentorWorkspace } from "./pages/MentorWorkspace";[39m
+      at TransformPluginContext._formatLog (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:42658:41)
+      at TransformPluginContext.error (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:42655:16)
+      at normalizeUrl (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:40634:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:40753:37
+      at async Promise.all (index 7)
+      at async TransformPluginContext.transform (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:40680:7)
+      at async EnvironmentPluginContainer.transform (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:42453:18)
+      at async loadAndTransform (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:35845:27)
+      at async viteTransformMiddleware (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:37369:24)
+[2m12:38:09[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to resolve import "./pages/HrWorkspace" from "src/App.tsx". Does the file exist?
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mD:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/App.tsx[39m:5:28
+[33m  20 |  import { seedData } from "./data/seed";
+  21 |  import { HomePage } from "./pages/HomePage";
+  22 |  import { HrWorkspace } from "./pages/HrWorkspace";
+     |                               ^
+  23 |  import { InternWorkspace } from "./pages/InternWorkspace";
+  24 |  import { MentorWorkspace } from "./pages/MentorWorkspace";[39m
+[2m12:38:09[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "./pages/HrWorkspace" from "src/App.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mD:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/App.tsx[39m:5:28
+[33m  20 |  import { seedData } from "./data/seed";
+  21 |  import { HomePage } from "./pages/HomePage";
+  22 |  import { HrWorkspace } from "./pages/HrWorkspace";
+     |                               ^
+  23 |  import { InternWorkspace } from "./pages/InternWorkspace";
+  24 |  import { MentorWorkspace } from "./pages/MentorWorkspace";[39m
+      at TransformPluginContext._formatLog (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:42658:41)
+      at TransformPluginContext.error (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:42655:16)
+      at normalizeUrl (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:40634:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:40753:37
+      at async Promise.all (index 7)
+      at async TransformPluginContext.transform (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:40680:7)
+      at async EnvironmentPluginContainer.transform (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:42453:18)
+      at async loadAndTransform (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:35845:27)
+      at async viteTransformMiddleware (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:37369:24)
+[2m12:38:09[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to resolve import "./pages/HrWorkspace" from "src/App.tsx". Does the file exist?
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mD:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/App.tsx[39m:5:28
+[33m  20 |  import { seedData } from "./data/seed";
+  21 |  import { HomePage } from "./pages/HomePage";
+  22 |  import { HrWorkspace } from "./pages/HrWorkspace";
+     |                               ^
+  23 |  import { InternWorkspace } from "./pages/InternWorkspace";
+  24 |  import { MentorWorkspace } from "./pages/MentorWorkspace";[39m
+[2m12:38:09[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "./pages/HrWorkspace" from "src/App.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mD:/HuaweiMoveData/Users/周蜜诗/OneDrive/桌面/HR/src/App.tsx[39m:5:28
+[33m  20 |  import { seedData } from "./data/seed";
+  21 |  import { HomePage } from "./pages/HomePage";
+  22 |  import { HrWorkspace } from "./pages/HrWorkspace";
+     |                               ^
+  23 |  import { InternWorkspace } from "./pages/InternWorkspace";
+  24 |  import { MentorWorkspace } from "./pages/MentorWorkspace";[39m
+      at TransformPluginContext._formatLog (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:42658:41)
+      at TransformPluginContext.error (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:42655:16)
+      at normalizeUrl (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:40634:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+      at async file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:40753:37
+      at async Promise.all (index 7)
+      at async TransformPluginContext.transform (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:40680:7)
+      at async EnvironmentPluginContainer.transform (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:42453:18)
+      at async loadAndTransform (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:35845:27)
+      at async viteTransformMiddleware (file:///D:/HuaweiMoveData/Users/%E5%91%A8%E8%9C%9C%E8%AF%97/OneDrive/%E6%A1%8C%E9%9D%A2/HR/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:37369:24)
